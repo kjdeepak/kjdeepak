@@ -7,6 +7,7 @@
 - 💬 Ask me about Angular and any web development related topics
 - 📫 How to reach me:
 - - Website - [K J Deepak](https://kjdeepak.com/)
+- - Blog - [K J Deepak](https://wanderingkj.wordpress.com/)
 - - Github - [@kjdeepak](https://github.com/kjdeepak)
 - - Frontend Mentor - [@kjdeepak](https://www.frontendmentor.io/profile/kjdeepak)
 - - Twitter - [@k_j_deepak](https://www.twitter.com/k_j_deepak)
