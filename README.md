@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning Angular Unit Testing
+- 🌱 I’m currently learning NestJS and Prisma ORM
 - 👯 I’m looking to collaborate on building Frontend Websites
 - 💬 Ask me about Angular and any web development related topics
 - 📫 How to reach me:
